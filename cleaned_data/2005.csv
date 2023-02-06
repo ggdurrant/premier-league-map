@@ -1,0 +1,66 @@
+Rank,Nation,Abbreviation,Count,Minutes,List
+1,England,eng,195,284033,Wayne Rooney Frank Lampard Darren Bent Marlon Harewood Kevin Davies Darius Vassell Kevin Nolan Dean Whitehead Steven Gerrard Alan Shearer ...
+2,France,fr,35,49837,Thierry Henry Steed Malbranque Pascal Chimbonda Charles N'Zogbia William Gallas Robert Pirès Mikaël Silvestre Sylvain Distin Claude Makélélé Jean-Alain Boumsong ...
+3,Republic of Ireland,ie,33,47213,Robbie Keane Shay Given Steven Reid Steve Finnan Gary Breen John O'Shea Richard Dunne Graham Kavanagh Andy O'Brien Kenny Cunningham ...
+4,Scotland,sct,21,24063,David Weir Lee McCulloch James McFadden James Morrison Darren Fletcher Steven Caldwell Gary Teale Paul Dickov Richard Hughes Andy Gray ...
+5,Netherlands,nl,18,28294,Ruud van Nistelrooy Edwin van der Sar Collins John Arjan de Zeeuw Edgar Davids George Boateng Arjen Robben Jimmy Floyd Hasselbaink Kiki Musampa Mario Melchiot ...
+6,Wales,wls,16,23224,Craig Bellamy Robbie Savage Gary Speed Danny Gabbidon Ryan Giggs Danny Collins Simon Davies Ben Thatcher James Collins Mark Delaney ...
+7,Spain,es,14,21952,Xabi Alonso Cesc Fàbregas José Antonio Reyes Mikel Arteta Pepe Reina Fernando Morientes Asier del Horno Luis García Gaizka Mendieta Albert Riera ...
+8,Australia,au,13,18630,Tim Cahill Lucas Neill Mark Viduka Harry Kewell Mark Schwarzer Brett Emerton John Filan Stan Lazaridis Brad Jones Craig Moore ...
+9,Denmark,dk,12,15770,Thomas Sørensen Brian Priske Martin Albrechtsen Dennis Rommedahl Henrik Pedersen Niclas Jensen Stephan Andersen Claus Jensen Thomas Gaardsøe Daniel Agger ...
+10,Portugal,pt,9,13685,Luís Boa Morte Cristiano Ronaldo Ricardo Carvalho Pedro Mendes Paulo Ferreira Nuno Valente Ricardo Vaz Tê Abel Xavier Maniche
+11,Senegal,sn,9,11702,Henri Camara Abdoulaye Faye Papa Bouba Diop Diomansy Kamara El Hadji Diouf Amdy Faye Salif Diao Khalilou Fadiga Aliou Cissé
+12,Northern Ireland,nir,7,14756,Steven Davis Aaron Hughes Maik Taylor Damien Johnson Roy Carroll George McCartney Alex Bruce
+13,Nigeria,ng,7,12891,Yakubu Aiyegbeni Shola Ameobi Joseph Yobo Celestine Babayaro Nwankwo Kanu Jay-Jay Okocha Victor Anichebe
+14,Finland,fi,7,12088,Jussi Jääskeläinen Sami Hyypiä Shefki Kuqi Teemu Tainio Mikael Forssell Antti Niemi Jonatan Johansson
+15,United States,us,7,11269,Brian McBride Brad Friedel Claudio Reyna Carlos Bocanegra Jonathan Spector Tim Howard Jemal Johnson
+16,Czech Republic,cz,6,9192,Milan Baroš Petr Čech Jiří Jarošík Tomáš Řepka Martin Latka Patrik Berger
+17,Norway,no,6,8110,Morten Gamst Pedersen John Arne Riise Thomas Myhre Eirik Bakke Azar Karadas Ole Gunnar Solskjær
+18,Jamaica,jm,6,7035,Ricardo Gardner Nyron Nosworthy Damien Francis Jason Euell Darren Moore Kevin Lisbie
+19,Cameroon,cm,6,3130,Lauren Geremi Alex Song Eric Djemba-Djemba Franck Songo'o Joseph-Désiré Job
+20,Italy,it,6,1827,Massimo Maccarone Matteo Ferrari Carlo Cudicini Giuseppe Rossi Alessandro Pistone Arturo Lupoli
+21,Germany,de,5,7468,Jens Lehmann Moritz Volz Dietmar Hamann Robert Huth Sergio Peter
+22,Argentina,ar,5,6081,Hernán Crespo Julio Arca Andrés D'Alessandro Lionel Scaloni Gabriel Heinze
+23,Sweden,se,5,5244,Olof Mellberg Freddie Ljungberg Andreas Johansson Erik Edman Seb Larsson
+24,Poland,pl,5,3350,Tomasz Kuszczak Jerzy Dudek Grzegorz Rasiak Emmanuel Olisadebe Jarosław Fojut
+25,Côte d'Ivoire,ci,4,7129,Didier Drogba Kolo Touré Emmanuel Eboué Olivier Tébily
+26,Trinidad and Tobago,tt,4,6487,Justin Hoyte Tony Warner Shaka Hislop Jlloyd Samuel
+27,Switzerland,ch,4,5082,Stéphane Henchoz Philippe Senderos Reto Ziegler Johan Djourou
+28,Serbia,rs,4,3867,Dejan Stefanović Nemanja Vidić Zvonimir Vukić Ognjen Koroman
+29,Uruguay,uy,4,2425,Darío Silva Walter Pandiani Gonzalo Sorondo Williams Martínez
+30,Brazil,br,3,6486,Gilberto Silva Fábio Rochemback Doriva
+31,Iceland,is,3,5992,Hermann Hreiðarsson Heiðar Helguson Eiður Guðjohnsen
+32,Israel,il,3,5696,Yossi Benayoun Tal Ben Haim Yaniv Katan
+33,Türkiye,tr,3,4336,Emre Belözoğlu Tugay Kerimoğlu Muzzy Izzet
+34,Greece,gr,3,3562,Stelios Giannakopoulos Georgios Samaras Giannis Skopelitis
+35,Mali,ml,3,2777,Mohamed Sissoko Djimi Traoré Frédéric Kanouté
+36,Ghana,gh,3,2578,Michael Essien Lloyd Sam Quincy Owusu-Abeyie
+37,South Africa,za,3,1496,Shaun Bartlett Aaron Mokoena Matty Pattison
+38,Slovakia,sk,3,687,Ján Kozák Szilárd Németh Vratislav Greško
+39,Canada,ca,2,5252,Paul Stalteri Tomasz Radzinski
+40,Korea Republic,kr,2,4723,Park Ji-sung Lee Young-pyo
+41,Bulgaria,bg,2,3918,Radostin Kishishev Svetoslav Todorov
+42,New Zealand,nz,2,3706,Ryan Nelsen Simon Elliott
+43,Austria,at,2,3261,Emanuel Pogatetz Paul Scharner
+44,Japan,jp,2,2802,Junichi Inamoto Hidetoshi Nakata
+45,Colombia,co,2,2424,Juan Pablo Ángel Jhon Viáfara
+46,Tunisia,tn,2,1299,Radhi Jaïdi Mehdi Nafti
+47,Morocco,ma,2,668,Talal El Karkouri Noureddine Naybet
+48,Grenada,gd,1,3008,Jason Roberts
+49,Peru,pe,1,2342,Nolberto Solano
+50,Georgia,ge,1,2156,Zurab Khizanishvili
+51,Egypt,eg,1,2110,Mido
+52,Congo DR,cd,1,2108,Lomana LuaLua
+53,China PR,cn,1,1719,Sun Jihai
+54,Russia,ru,1,1527,Alexey Smertin
+55,Belarus,by,1,1480,Alexander Hleb
+56,Zimbabwe,zw,1,1281,Benjani Mwaruwari
+57,Guadeloupe,gp,1,1197,David Sommeil
+58,Hungary,hu,1,1087,Zoltán Gera
+59,Togo,tg,1,1001,Emmanuel Adebayor
+60,Mexico,mx,1,543,Jared Borgetti
+61,Ecuador,ec,1,404,Ulises de la Cruz
+62,Belgium,be,1,360,Nico Vaesen
+63,Pakistan,pk,1,270,Zesh Rehman
+64,Zambia,zm,1,55,Collins Mbesuma
+65,Croatia,hr,1,53,Ivica Mornar
